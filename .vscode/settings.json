@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/cbbffdc8-295a-457d-b161-36767e11b1ca/resourceGroups/az-group-rg/providers/Microsoft.Web/sites/az-webapp-pedro-2"
+}
